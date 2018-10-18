@@ -1,0 +1,15 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "pakki1",
+  "main": "greeting.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Lab8"
+  },
+  "author": "Birgir",
+  "license": "ISC"
+}
